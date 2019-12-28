@@ -1,4 +1,4 @@
-# Week3_Weekend_ColorNotes
+# ColorNotes
 A notes application allowing you to store entries of notes in a variety of colors. 
 Has a RecyclerView to choose a color for text throughout the application.
 Once the color has been picked, the app saves this to shared preferences and opens an activity with notes.
